@@ -22,7 +22,7 @@ Of course, it should be noted that some of the research groups concern about thi
 
 NLI (known as recognizing textual entailment) resources for Persian are vital for every semantic, extraction, and inference system. 
 I was so excited when [FarsTail](https://github.com/dml-qom/FarsTail), as the first NLI dataset for Persian, was released. 
-I used this dataset to train a Sentence-Transformer model (using [ParsBERT](https://github.com/hooshvare/parsbert)) as a basis for other applications like Semantic Search, Clustering, Information Extraction, Summarization, Topic Modeling, and some others. 
+I used this dataset to train a Sentence-Transformer model (using [ParsBERT](https://github.com/m3hrdadfi/sentence-transformers)) as a basis for other applications like Semantic Search, Clustering, Information Extraction, Summarization, Topic Modeling, and some others. 
 However, the model could be achieved remarkable results on recognizing entailment (81.71%) in contrast to what they mentioned in their [paper](https://arxiv.org/abs/2009.08820) (78.13%), still not adequate for NLI applications.
 
 I dug in the official paper of Sentence-Transformer [Reimers and Gurevych, 2019](https://arxiv.org/abs/1908.10084). 
@@ -207,11 +207,11 @@ The following table summarizes the scores obtained by each dataset and model.
 ## How to use ( Applications )
 | Application           	| Notebook                                                                                                                                                                                    	|
 |-----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Semantic Search       	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert/blob/master/notebooks/Semantic_Search.ipynb)       	|
-| Clustering               	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert/blob/master/notebooks/Clustering.ipynb)               	|
-| Text Summarization    	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert/blob/master/notebooks/Text_Summarization.ipynb)    	|
-| Information Retrieval 	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert/blob/master/notebooks/Information_Retrieval.ipynb) 	|
-| Topic Modeling        	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hooshvare/parsbert/blob/master/notebooks/Topic_Modeling.ipynb)        	|
+| Semantic Search       	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3hrdadfi/sentence-transformers/blob/master/notebooks/Semantic_Search.ipynb)       	|
+| Clustering               	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3hrdadfi/sentence-transformers/blob/master/notebooks/Clustering.ipynb)               	|
+| Text Summarization    	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3hrdadfi/sentence-transformers/blob/master/notebooks/Text_Summarization.ipynb)    	|
+| Information Retrieval 	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3hrdadfi/sentence-transformers/blob/master/notebooks/Information_Retrieval.ipynb) 	|
+| Topic Modeling        	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3hrdadfi/sentence-transformers/blob/master/notebooks/Topic_Modeling.ipynb)        	|
 
 
 ## Model Releases
