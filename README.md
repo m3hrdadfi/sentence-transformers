@@ -178,14 +178,14 @@ As far as this mutated method can understand the entailment and thematic, we cou
 | 1.0.0   	| 205,768  	| 21,515 	| 34,298   	|
 
 
-### Wiki NLI
+### Wiki Triplet
 
 | Version 	| Train   	| Dev   	| Test  	|
 |---------	|---------	|-------	|-------	|
 | 1.0.0   	| 180,585 	| 5,586 	| 5,758 	|
 
 
-### Wiki Triplet
+### Wiki NLI
 
 | Version 	| Train   	| Dev   	| Test  	|
 |---------	|---------	|-------	|-------	|
