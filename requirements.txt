@@ -1,0 +1,5 @@
+sentence-transformers
+wikipedia-api
+hazm
+clean-text[gpl]
+emoji
