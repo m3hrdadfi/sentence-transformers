@@ -1,19 +1,7 @@
-# Sentence Transformers
-> Sentence Embeddings with BERT
+<h1 align="center">Sentence Transformers 🦁</h1>
 
-- [Sentence Transformers](#sentence-transformers)
-  - [Preprocessing Rules](#preprocessing-rules)
-  - [In Action](#in-action)
-  - [Future Works](#future-works)
-  - [Dataset Information ( 😎 )](#dataset-information---)
-    - [Wikipedia Sections Sentences](#wikipedia-sections-sentences)
-    - [Wiki Triplet](#wiki-triplet)
-    - [Wiki D/Similar](#wiki-dsimilar)
-  - [Evaluation](#evaluation)
-  - [How to use ( Applications )](#how-to-use--applications-)
-  - [Model Releases](#model-releases)
-  - [Cite](#cite)
-  - [License](#license)
+<br/><br/>
+
 
 There are many achievements in the Natural Language field for English or even other languages, but in the case of Persian, as you can see, there are not many. 
 Perhaps the lack of data resources, non-disclosure of sources by research groups, and decentralized research communities are the main reasons for Persian's current state. 
