@@ -1,5 +1,6 @@
 <h1 align="center">Sentence Transformers 🦁</h1>
-
+<p align="center"><a href="https://doi.org/10.5281/zenodo.4850057"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4850057.svg" alt="DOI"></a>
+</p>
 <br/><br/>
 
 
@@ -215,13 +216,15 @@ The following table summarizes the scores obtained by each dataset and model.
 Please cite this repository in publications as the following:
 
 ```markdown
-@misc{SentenceTransformerWiki,
-  author = {Mehrdad Farahani},
-  title = {Sentence Embeddings with ParsBERT},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {https://github.com/m3hrdadfi/sentence-transformers},
+@misc{PersianSentenceTransformers,
+  author       = {Mehrdad Farahani},
+  title        = {Persian - Sentence Transformers},
+  month        = dec,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.4850057},
+  url          = {https://doi.org/10.5281/zenodo.4850057}
 }
 ```
 
