@@ -203,6 +203,15 @@ The following table summarizes the scores obtained by each dataset and model.
 
 
 ## Model Releases
+
+2.0.0: New Version 🆕 !
+
+- [m3hrdadfi/bert-zwnj-wnli-mean-tokens](https://huggingface.co/m3hrdadfi/bert-zwnj-wnli-mean-tokens)
+- [m3hrdadfi/distilbert-zwnj-wnli-mean-tokens](https://huggingface.co/m3hrdadfi/distilbert-zwnj-wnli-mean-tokens)
+- [m3hrdadfi/roberta-zwnj-wnli-mean-tokens](https://huggingface.co/m3hrdadfi/roberta-zwnj-wnli-mean-tokens)
+- [m3hrdadfi/albert-zwnj-wnli-mean-tokens](https://huggingface.co/m3hrdadfi/albert-zwnj-wnli-mean-tokens)
+
+
 1.0.0: Hello World!
 
 - [m3hrdadfi/bert-fa-base-uncased-wikinli-mean-tokens](https://huggingface.co/m3hrdadfi/bert-fa-base-uncased-wikinli-mean-tokens)
